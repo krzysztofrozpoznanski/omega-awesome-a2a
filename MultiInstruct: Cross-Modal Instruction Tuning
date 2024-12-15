@@ -1,0 +1,4 @@
+### MultiInstruct: Cross-Modal Instruction Tuning
+- **Paper**: [MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning](https://arxiv.org/abs/2312.00977)
+- **GitHub**: https://github.com/VT-NLP/MultiInstruct
+- **Analysis**: Introduces a transformative approach to multimodal instruction tuning that achieves superior zero-shot performance by unifying vision-language understanding. The framework's ability to bridge modalities without task-specific training makes it particularly valuable for A2A systems requiring flexible cross-modal reasoning. Implementation shows significant improvements over existing methods in real-world multimodal tasks.
